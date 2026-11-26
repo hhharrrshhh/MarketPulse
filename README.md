@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 Geopolitical Shock Impact Analysis
+# 🌍 MarketPulse - Geopolitical Shock Impact Analysis
 ### Time Series Analysis of the US–Israel–Iran Conflict on Indian Financial Markets
 
 A comprehensive econometric and deep learning analysis of how geopolitical conflict propagates through crude oil markets and affects India's financial ecosystem using VAR, ARIMAX, GARCH, Prophet, and LSTM models.
